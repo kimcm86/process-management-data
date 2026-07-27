@@ -1,6 +1,9 @@
 (3LBO) Chemical Pump PSV 급함
 (Naocl 완료, 황산은 2달 연기)
 
+(4블럭) 황산 LINE 재질변경건
+8/18~21
+
 (1LBO) C/T사면 HP Trap
 
 (10블럭) D5203 상부 tracing(7/20)
