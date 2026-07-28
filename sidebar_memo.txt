@@ -4,7 +4,8 @@
 (4블럭) 황산 LINE 재질변경건
 8/18~21
 
-(1LBO) C/T사면 HP Trap
+(1LBO) 1. C/T사면 HP Trap
+2. LBO C/T 남쪽 삼거리 CL-110번)
 
 (10블럭) D5203 상부 tracing(7/20)
   하부에는 배관 작업
