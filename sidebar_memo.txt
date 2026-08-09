@@ -1,13 +1,12 @@
-*UC-V2305 to D2304 Drain 신설 Line  설치관련 Valve 수압 Test
+*UC-V2305 to D2304 Drain 신설 Line  설치
 
-(3LBO) Chemical Pump PSV 급함
-(Naocl 완료, 황산은 2달 연기)
+(3LBO) Chemical Pump PSV
+(황산)
 
 (4블럭) 황산 LINE 재질변경건
 8/18~21
 
-(7블럭)7블럭 P1104A/B Dis' Steam Tracing 수리(1/2" Tubing)-
-비계7/30일, 보온제거 7/31
+(7블럭)7블럭 P1104A/B Dis' Steam Tracing 수리(1/2" Tubing)
 
 (1LBO) 1. C/T사면 HP Trap
 2. LBO C/T 남쪽 삼거리 CL-110번)
